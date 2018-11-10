@@ -1,2 +1,2 @@
 # Pytorch
-This repositories contains some of the codes written in Pytorch for some basic problems
+This repositories contains some basic implementation of various models written in Pytorch.
